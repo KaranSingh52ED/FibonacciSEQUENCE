@@ -1,1 +1,1 @@
-F:\MY\ Lang\ Programs\RUST\Project\target\debug\binary.exe: F:\MY\ Lang\ Programs\RUST\Project\binary\src\main.rs F:\MY\ Lang\ Programs\RUST\Project\library\src\lib.rs
+I:\GITHUB_Projects\FibonacciSEQUENCE\target\debug\binary.exe: I:\GITHUB_Projects\FibonacciSEQUENCE\binary\src\main.rs I:\GITHUB_Projects\FibonacciSEQUENCE\library\src\lib.rs
